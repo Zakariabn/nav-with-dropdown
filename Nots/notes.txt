@@ -1,0 +1,46 @@
+<main class="all-content">
+    <section>
+      <article class="articale-1">
+        <h3 class="article-title"></h3>
+        <p class="disc">lorem20</p>
+      </article>
+    </section> <!--section 1-->
+
+    <section>
+      <article class="articale-2">
+        <h3 class="article-title"></h3>
+        <p class="disc">lorem20</p>
+        <figure>
+          <img src="./asset/images/Photo 2.jpg" alt="Hanging bridge in wood">
+          <figcaption class="img-caption">Keep plant tree.</figcaption>
+          <p>This photo captur in morning around <time>10:20</time> to <time>11:00</time>.</p>
+        </figure>
+      </article>
+
+    </section> <!--section 2-->
+
+    <section>
+      <article class="articale-3">
+        <h3 class="article-title"></h3>
+        <p class="disc">lorem20</p>
+      </article>
+    </section> <!--section 3-->
+
+    <section>
+      <details>
+        <summary>Copy-right free text</summary>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, quo?</p>
+        
+      </details>
+      <aside>This is aside</aside>
+    </section>
+
+    <hr>
+
+    
+
+  </main>
+
+  <footer class="footer">
+
+  </footer>
